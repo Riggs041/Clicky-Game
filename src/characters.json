@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Daenerys Targaryen",
+    "image": "https://i.pinimg.com/originals/c2/90/bb/c290bb66f2da3623ce53ef3e360ff9b4.jpg",
+    "title": "Mother of Dragons",
+    "allegiance": "House Targaryen",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Jon Snow",
+    "image": "https://i.pinimg.com/originals/09/aa/e0/09aae0d69521bfb42449dd832ccadb3c.jpg",
+    "title": "Lord Snow",
+    "allegiance": "House Stark",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Gregor Clegane",
+    "image": "http://cdn.shopify.com/s/files/1/1368/0279/products/Gregor_Clegane_1024x1024.jpg",
+    "title": "The Mountain",
+    "allegiance": "House Lannister",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Cersei Lannister",
+    "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/c/c3/Profile-CerseiLannister.png/revision/latest/scale-to-width-down/323?cb=20170828071355",
+    "title": "Protector of the Seven Kingdoms",
+    "allegiance": "House Lannister",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Tyrion Lannister",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Tyrion_Lannister-Peter_Dinklage.jpg/220px-Tyrion_Lannister-Peter_Dinklage.jpg",
+    "title": "Hand of the Queen",
+    "allegiance": "House Targaryen, House Lannister",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Khal Drogo",
+    "image": "https://i.pinimg.com/736x/aa/90/8b/aa908b9bd32ec3847ec68f02696fb9b3--daenerys-drogo-khal-drogo.jpg",
+    "title": "Great Khal",
+    "allegiance": "Dathraki",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Sandor Clegane",
+    "image": "https://vignette.wikia.nocookie.net/villains/images/4/47/The_Hound.jpg/revision/latest?cb=20160215075509",
+    "title": "The Hound",
+    "allegiance": "Brotherhood Without Banners",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Bronn",
+    "image": "http://www4.pictures.zimbio.com/mp/jrBXOIDr1aRl.jpg",
+    "title": "Ser Bronn of the Blackwater",
+    "allegiance": "House Lannister",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Brienne of Tarth",
+    "image": "http://www.friss24.hu/wp-content/uploads/2017/08/ce55d6c4a906208fbe9456257175a0e1-lady-brienne-brienne-of-tarth.jpg",
+    "title": "The Maid of Tarth",
+    "allegiance": "House Stark",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Jaime Lannister",
+    "image": "https://s2.r29static.com//bin/entry/97f/340x408/1832698/image.png",
+    "title": "Commander",
+    "allegiance": "House Lannister",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Tormund Giantsbane",
+    "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/9/97/Tormund_Profile.PNG/revision/latest?cb=20170818044433",
+    "title": "Tormund Giantsbane",
+    "allegiance": "Free Folk",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Night King",
+    "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/f/f3/Nightsking.jpg/revision/latest?cb=20150601042001",
+    "title": "Supreme Leader",
+    "allegiance": "White Walker",
+    "clicked": false
+  }
+]

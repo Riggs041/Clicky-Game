@@ -1,0 +1,12 @@
+
+.wrapper {
+  padding-top: 50px;
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtAv89CEfBfMMNgUeSfqpd2rdh38s6NeCH5a_Ic9n-3CDn4TOnRQ');
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 20px;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+}
